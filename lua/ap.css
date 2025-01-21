@@ -7,7 +7,7 @@
       ========================================================================== */
    body {
      font-family: 'Open Sans', sans-serif;
-     color: #546E7A;
+     color: #314b57;
      font-size: 14px;
      font-weight: 400;
      background: #fff;
@@ -1140,7 +1140,6 @@
      border-radius: 4px;
      border: 1px solid #aa838394;
      margin: 15px 0;
-     webkit-transition: all 0.3s ease-in-out;
      -moz-transition: all 0.3s ease-in-out;
      transition: all 0.3s ease-in-out;
    }
@@ -1544,7 +1543,7 @@
    .owl-theme .owl-controls .owl-page {
      display: inline-block;
      zoom: 1;
-     *display: inline;
+     display: inline;
    }
    
    .owl-theme .owl-controls .owl-page span {
@@ -1591,7 +1590,7 @@
    }
    
    .pricing-table .pricing-details h2 {
-     font-size: 18px;
+     font-size: 20px;
      color: #546E7A;
      font-weight: 500;
      padding-top: 15px;
@@ -1626,8 +1625,8 @@
    }
    
    .pricing-table .plan-button {
-     padding: 30px 0;
-     background: #f9f9f9;
+     padding: 30px 10;
+     background: #ffffff;
    }
    
    .pricing-big {
@@ -1641,7 +1640,7 @@
       ========================================================================== */
    #carousel-area {
      overflow: hidden;
-     background: #2c3e50;
+     background: #ffffff;
    }
    
    #carousel-area .carousel-item {
@@ -2351,7 +2350,7 @@
    .counters .facts-item .fact-count h3 {
      font-size: 40px;
      color: #fff;
-     font-weight: 400;
+     font-weight: 40;
      line-height: 40px;
    }
    
