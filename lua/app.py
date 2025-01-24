@@ -30,5 +30,5 @@ def add_item():
 
 # Outras rotas para atualizar e excluir itens também devem ser adicionadas.
 
-if __name__ == '__main__':
+if __name__ == '__index__':
     app.run(debug=True)
